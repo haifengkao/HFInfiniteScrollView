@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'HFInfiniteScrollView_Example', :exclusive => true do
+  pod "HFInfiniteScrollView", :path => "../"
+end
+
+target 'HFInfiniteScrollView_Tests', :exclusive => true do
+  pod "HFInfiniteScrollView", :path => "../"
+
+  
+end

@@ -1,0 +1,14 @@
+PODS:
+  - HFInfiniteScrollView (0.1.0)
+
+DEPENDENCIES:
+  - HFInfiniteScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  HFInfiniteScrollView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HFInfiniteScrollView: a3910acd8edd4e7112f3d248410253be1462fca1
+
+COCOAPODS: 0.38.2

@@ -1,0 +1,6 @@
+framework module Pods_HFInfiniteScrollView_Tests {
+  umbrella header "Pods-HFInfiniteScrollView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
